@@ -1,2 +1,1 @@
-#include<stdio.h>
-main(a,c)char**c;{if(a==3)printf("%s %s\n",c[1],c[2]);}
+main(a,c)char**c;{a==3?printf("%s %s\n",c[1],c[2];exit(2));}
